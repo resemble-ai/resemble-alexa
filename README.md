@@ -1,4 +1,4 @@
-# Resemble Alexa
+# Resemble AI - Alexa - GPT-3
 
 ![Resemble Alexa Sample Project Banner](https://www.resemble.ai/wp-content/uploads/2021/02/banner-alexa.jpg)
 ## What is it?
